@@ -1,4 +1,3 @@
-const xhr = require('xhr')
 const domify = require('domify')
 const Webrtc2Images = require('webrtc2images')
 const uuid = require('uuid')
