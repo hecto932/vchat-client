@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "npm run build-js",
-    "build-js": "browserify -t hbsfy client/app.js -o public/app.js"
+    "build-js": "browserify -t hbsfy client/app.js -o public/js/app.js"
   },
   "repository": {
     "type": "git",
